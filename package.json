@@ -1,0 +1,18 @@
+{
+  "description": "vivid is a layout/script implementation reference",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Alexandru Catrina",
+  "type": "module",
+  "name": "vivid",
+  "main": "vivid.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha *.spec.js"
+  },
+  "homepage": "https://github.com/lexndru/vivid",
+  "devDependencies": {
+    "jsdom": "^24.0.0",
+    "mocha": "^10.3.0"
+  }
+}
